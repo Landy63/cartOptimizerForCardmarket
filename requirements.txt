@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+ttkbootstrap
+selenium
+python-docx
+webdriver-manager
+customtkinter
+requests
+beautifulsoup4
+
